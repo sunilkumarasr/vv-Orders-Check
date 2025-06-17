@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">VV Orders Check App</string>
+
+    <string name="api_key">61d7193e52d6er4AuKwW0MjIU61d7193e52d6eYAqnHTf7</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="note">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat dui tristique volutpat semper. Fusce semper sit amet erat ut interdum. Etiam varius ac odio sed facilisis. Sed iaculis nisi ac odio porttitor dictum. Fusce tristique nisl a diam ornare, sit amet sollicitudin tellus hendrerit. Donec dapibus a sem sit amet tempus.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat dui tristique volutpat semper. Fusce semper sit amet erat ut interdum. Etiam varius ac odio sed facilisis.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat dui tristique volutpat semper. Fusce semper sit amet erat ut interdum. Etiam varius ac odio sed facilisis.
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat dui tristique volutpat semper. Fusce semper sit amet erat ut interdum. Etiam varius ac odio sed facilisis. </string>
+    <string name="note_short">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consequat dui tristique volutpat semper. Fusce semper sit amet erat ut interdum. Etiam varius ac odio sed facilisis. </string>
+
+    <string name="tab_orders">New Orders</string>
+    <string name="tab_pending">Pending</string>
+    <string name="tab_PickUp">PickUp</string>
+    <string name="tab_complete">Completed</string>
+
+    <string name="Exit">Exit</string>
+    <string name="Areyousurewanttoexitthisapp">Are you sure want to exit this app?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="watingforoders">Waiting for Orders</string>
+
+    <string name="conform">Conform</string>
+    <string name="Amount">Amount</string>
+    <string name="OrderNumber">Order Number</string>
+    <string name="OrderStatus_">Order Status  :</string>
+    <string name="Items">Items</string>
+    <string name="Date">Date</string>
+    <string name="continueShopping">Continue Shopping</string>
+    <string name="OrderID_">Order ID : </string>
+    <string name="totalAmount">Total Amount</string>
+    <string name="actuleprice">₹0</string>
+    <string name="offerprice">₹0</string>
+    <string name="OrderPlaced">Order Placed</string>
+    <string name="OrderPlacedNote">We have received your order</string>
+    <string name="Confirmed">Confirmed</string>
+    <string name="ConfirmedNote">Your order is confirmed. We will deliver it soon</string>
+    <string name="Pickup">Pickup</string>
+    <string name="PickupNote">The order is ready for pickup</string>
+    <string name="Delivered">Delivered</string>
+    <string name="DeliveredNote">Your order was delivered</string>
+    <string name="ShippingDetails">Shipping Details</string>
+    <string name="PriceDetails">Price Details</string>
+    <string name="Address_">Address : </string>
+    <string name="Name_">Name : </string>
+    <string name="Mobile_">Mobile : </string>
+    <string name="Email_">Email : </string>
+    <string name="OrderDate_">Order Date : </string>
+    <string name="Free">Free</string>
+    <string name="address">Address</string>
+    <string name="deliveryCharges">Delivery Charges</string>
+    <string name="discount">Discount</string>
+    <string name="dummyNote">Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+     </string>
+    <string name="thankyouorderdeliverd">Thank you! Order has been delivered.</string>
+
+
+</resources>
